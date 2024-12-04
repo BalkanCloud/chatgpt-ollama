@@ -65,6 +65,19 @@ or via the [desktop client](https://ollama.ai/download)
 
 ### 5. Run App
 
+### change the .env.local file
+```bash
+.env.local
+```
+```bash
+DEFAULT_MODEL="Mistral-7B:latest"
+NEXT_PUBLIC_DEFAULT_SYSTEM_PROMPT="You are a helpful, respectful and honest assistant.Help humman as much as you can."
+```
+and run the script with:
+```bash
+OLLAMA_HOST="http://0.0.0.0:11434" DEFAULT_MODEL='Mistral-7B:latest'  HOST=0.0.0.0 PORT=80 npm run dev
+```
+or:
 ```bash
 npm run dev
 ```
