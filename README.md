@@ -12,11 +12,13 @@ This project is based on [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui
 
 Chatbot Ollama will be updated over time.
 
-### Next up
+### Load ollama models
 
-- [ ] pull a model
-- [ ] delete a model
-- [ ] show model information
+```shell
+ollama pull ollama2
+```
+
+
 
 ## Docker
 
