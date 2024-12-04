@@ -4,7 +4,8 @@
 
 ChatGPT with Ollama is an open source chat UI for Ollama.
 
-Demo project. (https://chatgpt.ipv64.net)   (hosted localy with 100Mbit's)
+Demo project. (https://chatgpt.ipv64.net)   (Local Hosting 100Mbit's)
+Definition of Local Hosting Local hosting refers to the process of hosting a website or web application on a local server, which is typically your computer. 
 
 ## Updates
 
