@@ -65,7 +65,8 @@ or via the [desktop client](https://ollama.ai/download)
 
 ### 5. Run App
 
-### change the .env.local file
+change the .env.local file
+
 ```bash
 .env.local
 ```
