@@ -1,23 +1,20 @@
-# Chatbot Ollama
+# ChatGPT with Ollama
 
 ## About
 
-Chatbot Ollama is an open source chat UI for Ollama.
+ChatGPT with Ollama is an open source chat UI for Ollama.
 
-This project is based on [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) by [Mckay Wrigley](https://github.com/mckaywrigley).
-
-![Chatbot Ollama](./public/screenshots/screenshot-2023-10-02.png)
+Demo project. (https://chatgpt.ipv64.net)   (hosted localy with 100Mbit's)
 
 ## Updates
 
-Chatbot Ollama will be updated over time.
+ChatGPT with Ollama will be updated over time.
 
-### Load ollama models
+### Pull ollama models
 
 ```shell
 ollama pull ollama2
 ```
-
 
 
 ## Docker
