@@ -1,10 +1,7 @@
 import { IconExternalLink } from '@tabler/icons-react';
 import { useContext, useState, useEffect } from 'react';
-
 import { useTranslation } from 'next-i18next';
-
 import { OllamaModel } from '@/types/ollama';
-
 import HomeContext from '@/pages/api/home/home.context';
 
 export const ModelSelect = () => {
